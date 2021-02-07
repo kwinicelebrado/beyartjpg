@@ -111,7 +111,7 @@
 
 	<!-- TITLE -->
 	<div class="Title">
-		<h1>FREQUENTLY ASKED QUESTIONS</h1>
+		<h1>FREQUENTLY ASKED  QUESTIONS</h1>
 	</div>
 
 	<!-- QUESTIONS -->
